@@ -13,3 +13,4 @@ Reach out if you want to talk to me about **emerging tech, solving real-world pr
 **Skills/Specialties:** Machine Learning, Deep Learning, Computer Vision, Streamlit, AI Blueprint, AIOps, AI Research, AWS ML Stack, Docker, Product Development, Public Speaking.
 
 **I code in Python 🐍 with working knowledge of Go, and JavaScript.**
+<a href="https://ibb.co/KX7Bzvv"><img src="https://i.ibb.co/1LKBJWW/img.png" alt="img" border="0"></a>
