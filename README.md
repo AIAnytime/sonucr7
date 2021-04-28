@@ -1,5 +1,5 @@
 # Hi GitHub, I am Sonu Kumar 🙏
-# AI Evangelist | Researcher | Tech Content Creator
+# AI Engineer | Researcher | Tech Content Creator
 
 I am an AI practitioner, content creator, and technopreneur, currently working on multiple fronts where Deep Learning and Computer Vision are mysterious, including understanding business needs, rethinking AI capacity, and research that opens the door for an even better society. I believe in the power of technology to transform and improve the lives of people around the world. There's certainly yet more to learn, yet more problems to solve, and yet more to build.
 
