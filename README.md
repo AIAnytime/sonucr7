@@ -9,7 +9,7 @@ Prior to that, I have worked with a couple of startups full-time and helped few 
 
 Reach out if you want to talk to me about **emerging tech, solving real-world problems, or football.**
 
-**There's certainly yet more to learn, yet more problems to solve, and yet more to build.**\
+**There's certainly yet more to learn, yet more problems to solve, and yet more to build.**
 
 Connect on LinkedIn: https://www.linkedin.com/in/sonucr7/
 
