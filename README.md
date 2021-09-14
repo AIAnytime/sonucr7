@@ -13,7 +13,7 @@ Reach out if you want to talk to me about **emerging tech, solving real-world pr
 
 Connect on LinkedIn: https://www.linkedin.com/in/sonucr7/
 
-**Skills/Specialties:** Machine Learning, Deep Learning, Computer Vision, Streamlit, AI Blueprint, AI/MLOps, AI Research, AWS ML Stack, Azure, GCP AI, Docker, and few more............
+**Skills/Specialties:** Machine Learning, Deep Learning, Computer Vision, NLP, APIs, Streamlit, AI Blueprint, AI/MLOps, AI Research, AWS ML Stack, Azure, GCP AI, Docker, and few more............
 
 **I code in Python 🐍 with working knowledge of Julia, Go, and JavaScript.**
 <a href="https://ibb.co/KX7Bzvv"><img src="https://i.ibb.co/1LKBJWW/img.png" alt="img" border="0"></a>
