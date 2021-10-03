@@ -6,7 +6,7 @@ I am an AI Engineer, content creator, and technopreneur, currently working on mu
 
 I love to dig into challenging problems and solve them with modern technology. As an entrepreneur, I excel at the execution of big ideas with given constraints. 
 
-Prior to that, I have worked with a couple of startups full-time and helped few early-stage startups to build POC (Sports Analytics, Safety, and Surveillance solution, Agriculture platform, etc) as a community member.
+I am currently working at Capgemini, Hyderabad as a Lead Data Scientist. Prior to that, I have worked with a couple of startups full-time and helped few early-stage startups to build POC (Sports Analytics, Safety, and Surveillance solution, Agriculture platform, etc) as a community member.
 
 Reach out if you want to talk to me about **emerging tech, solving real-world problems, or football.**
 
