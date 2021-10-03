@@ -1,6 +1,9 @@
 # Hi GitHub, I am Sonu 🙏
 # AI Engineer | Researcher | Tech Content Creator
 
+[![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonucr7)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I am an AI Engineer, content creator, and technopreneur, currently working on multiple fronts where Deep Learning and Computer Vision are mysterious, including understanding business needs, rethinking AI capacity, and research that opens the door for an even better society. I believe in the power of technology to transform and improve the lives of people around the world. 
 
 I love to dig into challenging problems and solve them with modern technology. As an entrepreneur, I excel at the execution of big ideas with given constraints. 
